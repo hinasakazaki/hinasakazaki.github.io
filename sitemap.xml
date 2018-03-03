@@ -66,13 +66,13 @@
   </url>
   
   <url>
-    <loc>http://example.org/tags/projects/</loc>
-    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <loc>http://example.org/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>http://example.org/tags/projects/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
