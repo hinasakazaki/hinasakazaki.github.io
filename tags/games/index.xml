@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Hina Sakazaki</title>
+    <link>http://example.org/tags/games/</link>
+    <description>Recent content in Games on Hina Sakazaki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2017 20:29:45 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>THE Marriage Proposal Game</title>
+      <link>http://example.org/post/everyday/</link>
+      <pubDate>Sun, 24 Sep 2017 20:29:45 -0400</pubDate>
+      
+      <guid>http://example.org/post/everyday/</guid>
+      <description>I made a game called Every Day The Game for my now fiance.
+Note that the rest of the post is a direct copy of what is on my github project README.
+Play Download at Itch.io
+Watch PlayThrough Video on YouTube
+Concept May or June of 2014, we celebrated our first year anniversary at a paint-your-stuff place and I painted this.
+I didn&amp;rsquo;t think of it as a game idea, but a cutesy little design.</description>
+    </item>
+    
+    <item>
+      <title>A Trip to Visual Novel Land</title>
+      <link>http://example.org/post/mymagicalbestfriend/</link>
+      <pubDate>Sat, 16 Jan 2016 20:29:45 -0400</pubDate>
+      
+      <guid>http://example.org/post/mymagicalbestfriend/</guid>
+      <description>In December, I worked on a game called My (Magical) Best Friend! which is a visual novel inspired by anime (especially Madoka). It turns out that a youtuber made a Let&amp;rsquo;s Play Video of it.
+It&amp;rsquo;s really great to see your game be played by someone who you don&amp;rsquo;t know, who plays games for the sake of playing games (unlike other Ludum Dares where people play your games so they can get votes as well.</description>
+    </item>
+    
+    <item>
+      <title>You are the monster: Labor Day</title>
+      <link>http://example.org/post/laborday/</link>
+      <pubDate>Tue, 25 Aug 2015 20:29:45 -0400</pubDate>
+      
+      <guid>http://example.org/post/laborday/</guid>
+      <description>Ludum Dare 33&amp;rsquo;s theme was &amp;ldquo;You are the Monster&amp;rdquo;.
+With a theme like “You are the Monster”, and Labor Day in mind (I’m already excited for my 3 day weekend) I couldn&amp;rsquo;t help but to remember recent controversies with Amazon– shedding light also to the warehouse worker conditions.
+I don’t want to be too literal or heavyhanded. My goal is to make a small, cute game that has some satirical quality.</description>
+    </item>
+    
+    <item>
+      <title>Multiplayer Tattoo Parlor</title>
+      <link>http://example.org/post/slingingink/</link>
+      <pubDate>Mon, 04 May 2015 20:29:45 -0400</pubDate>
+      
+      <guid>http://example.org/post/slingingink/</guid>
+      <description>Hello!
+I am currently finishing up a game called Slinging Ink.
+You can play online multiplayer on the link.
+Currently, we don&amp;rsquo;t have a tutorial level, so I thought to explain it here.
+Thus begins our &amp;ldquo;How to Play&amp;rdquo;:
+1) The main screen has three buttons, &amp;ldquo;Find Match&amp;rdquo; for going into matchmaking system and finding an opponent to play with. You might have to wait a bit for the opponent to get ready, so only do this if you have time.</description>
+    </item>
+    
+    <item>
+      <title>Game of Love and Money</title>
+      <link>http://example.org/post/valentinesday/</link>
+      <pubDate>Thu, 12 Mar 2015 20:29:45 -0400</pubDate>
+      
+      <guid>http://example.org/post/valentinesday/</guid>
+      <description>This is going to be a quick one. In our Art 178 class we made a &amp;ldquo;quick loop&amp;rdquo; game. My quick loop was the following: boyfriend says he wants something &amp;ndash;&amp;gt; player works, makes money, buys it for him &amp;ndash;&amp;gt; boyfriend is happy and gives love
+Yes, super strange and reductionalist. Oh well!
+Eventually I added more features to the game by adding win/lose conditions: - Win love by money - Make money by working - Working too much will disinterest your love - Buying something your lover doesn&amp;rsquo;t want will also diminish your love - Being in debt will also lead to your lover leaving</description>
+    </item>
+    
+  </channel>
+</rss>

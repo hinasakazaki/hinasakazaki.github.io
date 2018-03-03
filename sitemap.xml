@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/post/welcome/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/everyday/</loc>
+    <lastmod>2017-09-24T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/mymagicalbestfriend/</loc>
+    <lastmod>2016-01-16T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/sway/</loc>
+    <lastmod>2015-11-14T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/laborday/</loc>
+    <lastmod>2015-08-25T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/slingingink/</loc>
+    <lastmod>2015-05-04T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/valentinesday/</loc>
+    <lastmod>2015-03-12T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/blog/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/games/</loc>
+    <lastmod>2017-09-24T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/projects/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-03-01T20:29:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
