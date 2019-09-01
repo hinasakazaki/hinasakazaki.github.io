@@ -6563,6 +6563,7 @@ body,
 .container-fluid,
 .row {
   height: 100%;
+  scroll-behavior: smooth;
 }
 html,
 body {
