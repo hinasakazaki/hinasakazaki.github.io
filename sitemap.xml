@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hinasakazaki.github.io/post/persimmons/</loc>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hinasakazaki.github.io/post/loveisalive/</loc>
     <lastmod>2020-04-20T20:29:45-04:00</lastmod>
   </url>
@@ -78,7 +83,7 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/tags/blog/</loc>
-    <lastmod>2020-04-20T20:29:45-04:00</lastmod>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,7 +95,7 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/</loc>
-    <lastmod>2020-04-20T20:29:45-04:00</lastmod>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -102,13 +107,13 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/post/</loc>
-    <lastmod>2020-04-20T20:29:45-04:00</lastmod>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hinasakazaki.github.io/tags/projects/</loc>
-    <lastmod>2020-04-20T20:29:45-04:00</lastmod>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +130,7 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/tags/</loc>
-    <lastmod>2020-04-20T20:29:45-04:00</lastmod>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
