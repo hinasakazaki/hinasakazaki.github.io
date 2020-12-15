@@ -112,13 +112,13 @@
   </url>
   
   <url>
-    <loc>https://hinasakazaki.github.io/tags/projects/</loc>
-    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
+    <loc>https://hinasakazaki.github.io/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hinasakazaki.github.io/projects/</loc>
+    <loc>https://hinasakazaki.github.io/tags/projects/</loc>
+    <lastmod>2020-12-12T17:50:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
