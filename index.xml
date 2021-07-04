@@ -206,10 +206,9 @@ Eventually I added more features to the game by adding win/lose conditions:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hinasakazaki.github.io/about/</guid>
-      <description>About Me I&amp;rsquo;m a software engineer working on research-driven products in emerging domains.
-Formerly, I worked as a Senior Software Engineer at Zynga where I work on shared client SDKs, a package management system for distributing SDKs across games, and do lots of recruiting/extracurriculars on the side.
-In my spare time, I lift weights, bake, play trombone, take photos of succulents, play games, and make games.
-The opinions expressed on this website are my own and not those of my employers.</description>
+      <description>About Me I&amp;rsquo;m a software engineer working on NLU for Dialogflow.
+At Google, I worked on YouTube Trust &amp;amp; Safety doing large scale data migrations and building new tools for reviewing content.
+I also worked at Google Research on a research driven product called Falken, a developer service that allows game developers to train AI to play their games quickly. We published an Google AI Blog Post and an OSS Project.</description>
     </item>
     
   </channel>
