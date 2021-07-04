@@ -6,10 +6,24 @@
     <description>Recent content in Blog on Hina Sakazaki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 17:50:45 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jul 2021 08:49:45 -0400</lastBuildDate>
     
 	<atom:link href="https://hinasakazaki.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chat Horror Novel Game: Swole Squad</title>
+      <link>https://hinasakazaki.github.io/post/chathorror/</link>
+      <pubDate>Sun, 04 Jul 2021 08:49:45 -0400</pubDate>
+      
+      <guid>https://hinasakazaki.github.io/post/chathorror/</guid>
+      <description>💪Swole Squad🥊🐜🥗 is a game I submitted for the LD48 game jam back in April.
+Play at: https://hinerz.itch.io/swole-squad or http://hinasakazaki.com/ChatHorror/
+GitHub: https://github.com/hinasakazaki/ChatHorror
+Overview Inspired by some story-telling chat apps, I decided that for this Ludum Dare, I would make a chat based novel game.
+Rather than aesthetics or technology, I tried to focus on the emotions text and sound can trigger.
+A chat screen is something we&amp;rsquo;re used to seeing &amp;ndash; the more realistic it is, the easier it is for the player to immerse as the recipient of the messages, and someone making choices on what messages to send.</description>
+    </item>
     
     <item>
       <title>New House, Too Many Persimmons</title>
