@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="description" content="">
+
+    <meta name="generator" content="Hugo 0.37" />
+    <title>Machine Learning for Game Developers &middot; Hina Sakazaki</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" href="https://hinasakazaki.github.io/css/style.css">
+    
+    <link href="https://hinasakazaki.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Hina Sakazaki" />
+    
+    
+    <link rel="icon" href="https://hinasakazaki.github.io/favicon.ico" />
+    
+
+    
+    
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top visible-xs">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+				<a class="navbar-brand" href="https://hinasakazaki.github.io/">Hina Sakazaki</a>
+			
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				
+				
+					<li><a href="https://hinasakazaki.github.io/about">About</a></li>
+				
+					<li><a href="https://hinasakazaki.github.io/">Blog</a></li>
+				
+					<li><a href="https://hinasakazaki.github.io/tags/projects/">Projects</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+<div class="container-fluid">
+	<div class="row">
+		<div id="menu" class="hidden-xs col-sm-4 col-md-3">
+	<div id="menu-content" class="vertical-align">
+		
+			<h1 class="text-center"><a href="https://hinasakazaki.github.io/">Hina Sakazaki</a></h1>
+		
+		
+		
+			<small class="text-center center-block">My website.</small>
+		
+		
+		
+			<img id="profile-pic" src="https://hinasakazaki.github.io//img/profile.png" alt="My Picture" class="img-circle center-block">
+		
+		<div id="social" class="text-center">
+			
+				<a href="https://github.com/hinasakazaki"><i class="fa fa-github fa-2x"></i></a>
+			
+				<a href="https://twitter.com/swaggerzaki"><i class="fa fa-twitter fa-2x"></i></a>
+			
+				<a href="https://linkedin.com/in/hinasakazaki/"><i class="fa fa-linkedin fa-2x"></i></a>
+			
+				<a href="https://www.instagram.com/sakazaki_succulents/"><i class="fa fa-instagram fa-2x"></i></a>
+			
+
+			<a href="mailto:hinasakazaki@gmail.com"><i class="fa fa-envelope-o fa-2x"></i></a>
+		</div>
+		<div id="links" class="text-center">
+			
+			
+				<a href="https://hinasakazaki.github.io/about">About</a>
+			
+				<a href="https://hinasakazaki.github.io/">Blog</a>
+			
+				<a href="https://hinasakazaki.github.io/tags/projects/">Projects</a>
+			
+		</div>
+	</div>
+</div>
+
+		<div id="content" class="col-xs-12 col-sm-8 col-md-9">
+			<div class="row">
+				<div id="post" class="col-sm-offset-1 col-sm-10 col-md-10 col-lg-8">
+
+<main>
+	<header>
+		<h1>Machine Learning for Game Developers</h1>
+	</header>
+
+	<article>
+		
+
+<p>This past June, I had the unique experience of publishing a bite-sized representation of what I had been working on for a little under a year and a half to the world:</p>
+
+<ul>
+<li><a href="https://ai.googleblog.com/2021/06/quickly-training-game-playing-agents.html">Google AI Blog Post: Quickly Training Game-Playing Agents with Machine Learning</a></li>
+<li><a href="https://github.com/google-research/falken">Falken Github Repository</a></li>
+</ul>
+
+<p><img src="../../img/falken_repo.png" alt="Repo" /></p>
+
+<p>One and a half years seems like a really short time, and most of it was spent during quarantine.</p>
+
+<p>During that time I started driving for real (I had a license for license sake for 10+ years), purchased a home, moved, and handled more than a couple family changes, including welcoming a cat. Even with those changes aside, the time spent on this team was dense and filled with learning.</p>
+
+<h2 id="learning-ml">Learning ML</h2>
+
+<p>When I interviewed for this team, I believe the required qualifications said &ldquo;2+ years on working in applied ML&rdquo;, and as career advice experts say, I ignored the requirement and applied anyway. At this time my &ldquo;ML experience&rdquo; was taking an Intro to AI course at Berkeley and a single-day side project or two.</p>
+
+<p>Thankfully, I got the job thanks to my SDK experience at Zynga and being comfortable with the Google infra stack, and promised the team to turn up the service and make it possible for game developers to call our API. (And I did!)</p>
+
+<p>There was a lot to catch up on for Machine Learning &ndash; in fact, I feel like I haven&rsquo;t caught up fully yet, but finally have the confidence to listen to a talk, understand general gists, look up stuff I don&rsquo;t understand, and am able to write down what I understood and followup questions I might have.
+Moreover, I feel very comfortable with ML infrastructure, that is: training and serving models, defining APIs for ML services, as well as common techniques for optimizing resources and increasing quality. These are useful skills for any team that uses ML, and it seems that many Software Engineers are more interested in experimenting with different ML strategies, so my confidence for the ML infrastructure side of things seemed to have left a unique impression on the manager who hired me for my current role at Dialogflow.</p>
+
+<p>During my time learning about Reinforcement Learning, a lot of concepts flew over my head, like <a href="https://openai.com/blog/openai-baselines-ppo/">PPO</a> and <a href="https://en.wikipedia.org/wiki/Q-learning">Q-learning</a>, and for these things, it helped for me to generate a table with different algorithms and their characteristics, how they may serve our goals.</p>
+
+<p>At the end of the day, as illustrated in <a href="https://ai.googleblog.com/2021/06/quickly-training-game-playing-agents.html">the blog post</a>, we landed on continuous imitation learning with human corrections. Reinforcement learning requires orders of magnitudes more data than the game developers could provide with unpredictable outcomes. Reward shaping and hyperparameter tuning required a lot of expertise in ML &ndash; which may be also an interest focus for another project.</p>
+
+<p>I remember early days spent experimenting with our service, teaching it to play our demo games, recording footage, sharing it with the team and getting excited about tricks to make learning more efficient.</p>
+
+<p>I&rsquo;d create harder levels for the AI to learn to play, and see if learning to play one level generalizes to another. It was oddly a very manual process.</p>
+
+<p>A less manual process was testing hyperparameters at scale: training AI on instances of the demo games running on the cloud with different hyperparameters, and evaluating how they played the game. After doing that, I probably could come up with simpler ways to design the whole system.</p>
+
+<p>I prepared a talk called &ldquo;ML for Game Developers: Adapting research ideas to make training AI for games fun&rdquo;, which talks more in detail about the different techniques we experimented with and how we ended up with what we did. Please contact me if you think there might be a good opportunity to speak!</p>
+
+<h2 id="working-with-game-developers">Working with Game Developers</h2>
+
+<p>When I talk to people about this project after not being able to talk about it for a year and a half, people say &ldquo;Wow, that&rsquo;s really cool, like, cartoonish cool.&rdquo;</p>
+
+<p>I think the coolest part about the job was being able to work with real game developers on unreleased game titles to integrate their games with our service and take their feedback to build features.</p>
+
+<p>One of the features I implemented was a <a href="https://github.com/google-research/falken/blob/main/sdk/cpp/src/core/allocator.cc">custom allocator</a>.
+The request came from game developers who had their own memory management system, and ran into issues when our SDK would allocate on the global memory.
+As a solution, we provided an API for them to pass their own <code>allocate</code> and <code>free</code> functions as callbacks and we&rsquo;d manage our memory in that context, keeping track of blocks of memory and their addresses.</p>
+
+<p>This was a very painful process, especially because of the time pressure, but it was extremely rewarding. After doing this task, I felt much more comfortable about approaching low level concepts casually without having a kneejerk reaction.</p>
+
+<p>I knew memory management was important for games from days at Zynga, but I did not realize that game developers working on games for modern, non-mobile consoles, were also working with these things in mind.</p>
+
+<p>I was also very impressed with their comfort with thinking in 3-D space, which we dealt with for our <a href="https://github.com/google-research/falken/tree/main/sdk/cpp#third-person-camera-relative-controls-eg-dark-souls-mario64-etc">various camera control actions</a>.
+&ldquo;Yaw&rdquo;, &ldquo;pitch&rdquo;, &ldquo;roll&rdquo;, how cameras move in relative to player, all of these things are things I passively feel, but not understand. The whole effort made me want to work on more 3D space projects in the future.</p>
+
+<h2 id="looking-back-me-and-software-engineering">Looking Back: Me and Software Engineering</h2>
+
+<p>During my time on this project, I developed a curiosity for &ldquo;how things work&rdquo; on a deeper level.</p>
+
+<p>Most of my time as a Software Engineer, I was so focused on how <em>to</em> make things work, rather than understand how they work.</p>
+
+<p>And for understanding how things work, I like to think I&rsquo;ve developed a buffer for how clueless I can be before I get frustrated.</p>
+
+<p>I see problem solving as a series of the following steps:</p>
+
+<ol>
+<li>Identify a problem, figure out if it needs to be solved.</li>
+<li>If it needs to be solved, identify what is missing.</li>
+<li>Draw a box for what is missing. What goes in? What comes out? What happens in the middle? Can it be broken down?</li>
+<li>Learn about technologies that can fill that box. Write down everything I learn that I find significant. Write down questions to get the information I need, read documentation and code with them in mind.</li>
+<li>Once I find the way to fill in the box, fill in the box.</li>
+</ol>
+
+<p>Step 4 was a struggle working on this project, mapping ML concepts I was unfamiliar with to my mental map of &ldquo;how problems are being solved&rdquo;. And that&rsquo;s where the buffer helps &ndash; a constant mantra reminding me:</p>
+
+<ul>
+<li>Results aren&rsquo;t everything. Take every opportunity to extract understanding that I can connect to long term.</li>
+<li>If I feel frustrated, write out what is on my mind, what specifically I am confused about.</li>
+<li>Not all documentation or code are written well. It&rsquo;s not helpful to blame myself for being confused.</li>
+</ul>
+
+<p>By slowly increasing the buffer for step 4, and also by building off of what I already understand, I&rsquo;m able to gradually tackle larger and more ambiguous problems.</p>
+
+<p>I talk more about this sort of stuff in my LeadDev <a href="https://leaddev.com/upcoming-articles/added-list-how-build-technical-domain-expertise">Added to the List: How to build technical domain expertise Talk</a>.</p>
+
+<p>I plan to continue in this craft for a while longer, maybe even for my whole life, so every moment is an opportunity to learn something that I can tie ideas back to. Of course, I spend a lot of my free moments of time playing games and watching YouTube, but I&rsquo;ve also developed an affinity towards learning again that I&rsquo;ve rejected for a long time in my life.</p>
+
+<p>Maybe this is a stage that many people go through in life as a working adult, but learning without consequences is truly a wonderful thing. I used to feel bad when I don&rsquo;t understand something, but that&rsquo;s only because there are consequences to me not understanding: testing poorly, being timebound, comparing myself to others and finding my own &ldquo;limit&rdquo;.</p>
+
+<p>But what&rsquo;s the harm in trying to understand something, even at a surface level, for your own pleasure? I have all the time in my life to fill it up with stuff that interests and enriches me.</p>
+
+	</article>
+</main>
+
+<div id="bottom-nav" class="text-center center-block">
+	<a href=" https://hinasakazaki.github.io/" class="btn btn-default"><i class="fa fa-home"></i> Home</a>
+</div>
+
+
+  <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hinasakazaki" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+  </div>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'code-here', 'auto');
+    ga('send', 'pageview');
+    window.baseURL = "https:\/\/hinasakazaki.github.io\/";
+  </script>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  
+  
+  <script src="https://hinasakazaki.github.io//js/App.js"></script>
+  
+</body>
+</html>
