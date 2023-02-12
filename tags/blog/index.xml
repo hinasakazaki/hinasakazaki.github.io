@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Hina Sakazaki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 08:39:45 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Feb 2023 20:29:45 -0400</lastBuildDate>
     
 	<atom:link href="https://hinasakazaki.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Viking Mediterranean Odyssey Cruise</title>
+      <link>https://hinasakazaki.github.io/post/cruise2022/</link>
+      <pubDate>Sat, 11 Feb 2023 20:29:45 -0400</pubDate>
+      
+      <guid>https://hinasakazaki.github.io/post/cruise2022/</guid>
+      <description>Inspired by my friend&amp;rsquo;s travel blog, I&amp;rsquo;m determined to record my experience going on a cruise with my spouse and my parents-in-law. The cruise was with Viking Cruises and it was called Mediterranean Odyssey. It was just under $8k per person, and our first all-inclusive trip experience.
+We didn&amp;rsquo;t really take much vacation during the pandemic &amp;ndash; a small trip to Napa in Summer 2022 served as a mini vacation but the others were mostly going here and there for weddings or family stuff.</description>
+    </item>
     
     <item>
       <title>Machine Learning for Game Developers</title>

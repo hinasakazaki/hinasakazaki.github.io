@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hinasakazaki.github.io/post/cruise2022/</loc>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hinasakazaki.github.io/post/mlforgamedevelopers/</loc>
     <lastmod>2021-09-05T08:39:45-04:00</lastmod>
   </url>
@@ -92,8 +97,12 @@
   </url>
   
   <url>
+    <loc>https://hinasakazaki.github.io/post/zurich2023/</loc>
+  </url>
+  
+  <url>
     <loc>https://hinasakazaki.github.io/tags/blog/</loc>
-    <lastmod>2021-09-05T08:39:45-04:00</lastmod>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,7 +114,7 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/</loc>
-    <lastmod>2021-09-05T08:39:45-04:00</lastmod>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +126,7 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/post/</loc>
-    <lastmod>2021-09-05T08:39:45-04:00</lastmod>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,13 +149,13 @@
   
   <url>
     <loc>https://hinasakazaki.github.io/tags/</loc>
-    <lastmod>2021-09-05T08:39:45-04:00</lastmod>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hinasakazaki.github.io/tags/travel/</loc>
-    <lastmod>2018-05-05T12:29:45-04:00</lastmod>
+    <lastmod>2023-02-11T20:29:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
